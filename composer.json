@@ -1,5 +1,6 @@
 {
     "name": "pouet/xmlseclibs",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Pouet\\XmlSecLibs\\": "src/"
